@@ -1,0 +1,4 @@
+Hi this my first text file for git
+This is the second line
+ hi hi hello 
+ hello
